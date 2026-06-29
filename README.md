@@ -1,0 +1,2 @@
+# MusiCode
+Music Programming Language
